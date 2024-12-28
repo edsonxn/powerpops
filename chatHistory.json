@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "Hola buen día"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! 😊 ¡Buen día! ¿En qué puedo ayudarte hoy? ¿Estás interesado en nuestros deliciosos Power Pops o en algún otro snack alto en proteína? 🥣✨"
+  },
+  {
+    "role": "user",
+    "content": "Que paquetes tienes"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Claro! Tenemos un 4-pack de Power Pops, que incluye 4 deliciosas porciones de nuestro cereal con 30% de proteína de suero de leche, sin azúcares añadidos y con sabor a chocolate. 🍫😍 \n\nAdemás, ¡Mucha proteína! que es un snack horneado con 27% de proteína de chícharo, en sabores Fuego, Jalapeño y Queso. 🔥🧀\n\n¿Te gustaría saber más sobre alguno de estos productos o hacer un pedido? 💪"
+  },
+  {
+    "role": "user",
+    "content": "Quiero hacer un pedido"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Genial! 🎉 ¿Qué producto te gustaría pedir, Power Pops, Muchas proteína o ambos? Además, ¿quieres que te ayude a elegir algún sabor en particular? 😊✨"
+  },
+  {
+    "role": "user",
+    "content": "Cuál es tu sabor favorito?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Qué buena pregunta! 😄 Personalmente, me encanta el sabor a chocolate de los Power Pops, ¡es simplemente delicioso y saludable! 🍫❤️ \n\nY para ¡Mucha proteína!, el sabor a Jalapeño tiene un toque especial que no puedes perderte. 🔥 \n\n¿Cuáles te llaman más la atención a ti? ¡Estoy aquí para ayudarte a hacer el mejor pedido! 🥳"
+  },
+  {
+    "role": "user",
+    "content": "Quiero un paquete con ambos"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Perfecto! 🎉 Entonces, un 4-pack de Power Pops de chocolate y un paquete de ¡Mucha proteína! en el sabor que prefieras. ¿Te gustaría el sabor Fuego, Jalapeño o Queso para el snack? 🔥🧀 \n\n¡Estoy emocionado de ayudarte con tu pedido! 💪✨"
+  },
+  {
+    "role": "user",
+    "content": "Quiero todoss"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Excelente elección! 😍 Entonces, tendrás un 4-pack de Power Pops de chocolate y los tres sabores de ¡Mucha proteína! (Fuego, Jalapeño y Queso). 🎉\n\nAhora solo necesito que me indiques tu dirección de envío y el método de pago que prefieres para completar tu pedido. ¡Listo para disfrutar de tus deliciosos snacks! 🥳✨"
+  },
+  {
+    "role": "user",
+    "content": "Como es el envío?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Claro! 🚚 Ofrecemos dos opciones de envío:\n\n1. **Envío regular**: Entre 2 y 10 días hábiles, dependiendo de tu código postal.\n   \n2. **Estafeta express**: Entrega en menos de 72 horas, ideal si quieres disfrutar de tus Power Pops y ¡Mucha proteína! rápido. 🚀\n\n¿Cuál opción prefieres para tu pedido? 😊✨"
+  }
+]
